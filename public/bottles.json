@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Boston Round Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-k1RR736-600.jpg",
+    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages."
+  },
+  {
+    "id": 2,
+    "name": "PET Plastic Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-q1yy5k8-600.jpg",
+    "description": "Transparent, lightweight, recyclable bottle made from PET, commonly used for soft drinks and water."
+  },
+  {
+    "id": 3,
+    "name": "HDPE Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+  },
+  {
+    "id": 4,
+    "name": "HDPE Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+  },
+  {
+    "id": 5,
+    "name": "HDPE Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+  },
+  {
+    "id": 6,
+    "name": "F‑Style HDPE Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-q1yy5k8-600.jpg",
+    "description": "Heavy‑duty rectangular HDPE bottle with ergonomic handle, used for solvents and industrial liquids."
+  },
+  {
+    "id": 7,
+    "name": "Metal (Aluminum/Stainless Steel) Bottle",
+    "image_url": "https://5.imimg.com/data5/ZE/XO/OH/ANDROID-82344205/product-jpeg-500x500.jpg",
+    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs."
+  },
+  {
+    "id": 8,
+    "name": "Metal (Aluminum/Stainless Steel) Bottle",
+    "image_url": "https://5.imimg.com/data5/ZE/XO/OH/ANDROID-82344205/product-jpeg-500x500.jpg",
+    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs."
+  },
+  {
+    "id": 1,
+    "name": "Boston Round Bottle",
+    "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-k1RR736-600.jpg",
+    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages."
+  }
+]
