@@ -1,5 +1,9 @@
 .img{
     width: 200px;
     border-radius: 40px;
-    
+}
+.small-card{
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    padding: 30px;
 }

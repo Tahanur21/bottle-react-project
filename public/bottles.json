@@ -3,54 +3,63 @@
     "id": 1,
     "name": "Boston Round Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-k1RR736-600.jpg",
-    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages."
+    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages.",
+    "price": 23.49
   },
   {
     "id": 2,
     "name": "PET Plastic Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-q1yy5k8-600.jpg",
-    "description": "Transparent, lightweight, recyclable bottle made from PET, commonly used for soft drinks and water."
+    "description": "Transparent, lightweight, recyclable bottle made from PET, commonly used for soft drinks and water.",
+    "price": 17.88
   },
   {
     "id": 3,
     "name": "HDPE Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
-    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products.",
+    "price": 34.21
   },
   {
     "id": 4,
     "name": "HDPE Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
-    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products.",
+    "price": 42.09
   },
   {
     "id": 5,
     "name": "HDPE Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/assets_v2/246/2463917396537120233/jpeg-600/G03.jpg?modifiedAt=1",
-    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products."
+    "description": "Sturdy, opaque HDPE bottle, ideal for milk, juices, and durable liquid products.",
+    "price": 28.75
   },
   {
     "id": 6,
     "name": "F‑Style HDPE Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-q1yy5k8-600.jpg",
-    "description": "Heavy‑duty rectangular HDPE bottle with ergonomic handle, used for solvents and industrial liquids."
+    "description": "Heavy‑duty rectangular HDPE bottle with ergonomic handle, used for solvents and industrial liquids.",
+    "price": 51.67
   },
   {
     "id": 7,
     "name": "Metal (Aluminum/Stainless Steel) Bottle",
     "image_url": "https://5.imimg.com/data5/ZE/XO/OH/ANDROID-82344205/product-jpeg-500x500.jpg",
-    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs."
+    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs.",
+    "price": 66.32
   },
   {
     "id": 8,
     "name": "Metal (Aluminum/Stainless Steel) Bottle",
     "image_url": "https://5.imimg.com/data5/ZE/XO/OH/ANDROID-82344205/product-jpeg-500x500.jpg",
-    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs."
+    "description": "Durable, insulated metal bottle, popular for reusable water bottles and travel mugs.",
+    "price": 61.14
   },
   {
-    "id": 1,
+    "id": 9,
     "name": "Boston Round Bottle",
     "image_url": "https://atlas-content-cdn.pixelsquid.com/stock-images/aluminium-bottle-water-k1RR736-600.jpg",
-    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages."
+    "description": "A round‑shouldered glass or plastic bottle with narrow neck, used for pharmaceuticals, essential oils, and beverages.",
+    "price": 19.83
   }
 ]
